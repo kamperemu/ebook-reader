@@ -17,3 +17,7 @@ pnpm build
 ```
 
 3. Have your server (such as [http-server](https://www.npmjs.com/package/http-server)) point towards `apps/web/build`
+
+## Community
+
+Join the discord if you are more interested. https://discord.gg/eVsscttq
